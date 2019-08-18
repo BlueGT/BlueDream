@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Transfomers",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Transfomers Chrome extension Of NJLWZX",
+    "description": "The description of the application"
+  }
+}
