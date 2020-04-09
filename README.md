@@ -20,7 +20,7 @@ redis-cli.exe shutdown
 redis-cli.exe ping
 ```
 
-### 批处理界面后台运用
+### 批处理界面后台运行
 ```bat
 @echo off 
 if "%1" == "h" goto begin 
